@@ -8,4 +8,3 @@
     for i, v in pairs(AnimationState) do
         print(i, v)
     end
-end)
